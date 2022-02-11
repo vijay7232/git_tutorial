@@ -1,2 +1,4 @@
 this is my 2nd text
  I am learning git 
+ youare learning two many things
+ 
