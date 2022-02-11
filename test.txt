@@ -1,3 +1,5 @@
 I am in testing from this branch
 
 this is all Ok
+this is all right
+new feature here
